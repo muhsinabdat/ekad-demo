@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ekad-demo//MS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:walimah-aisyah-hakim-20261212@ekad-demo
+DTSTAMP:20261115T000000Z
+DTSTART:20261212T030000Z
+DTEND:20261212T090000Z
+SUMMARY:Walimatul Urus Aisyah & Hakim
+LOCATION:Void deck Blk 123 Tampines St 11\, Singapore
+DESCRIPTION:Majlis perkahwinan Nur Aisyah & Muhammad Hakim. Kad & RSVP: https://muhsinabdat.github.io/ekad-demo/index.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Esok: Walimatul Urus Aisyah & Hakim
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
